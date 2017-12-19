@@ -22,3 +22,5 @@ vim Hello.sh
 > http://www.belgeler.org/lis/archive-tlkg-lis-6.6.html
 
 > https://ryanstutorials.net/bash-scripting-tutorial
+
+> https://linux.web.tr/
